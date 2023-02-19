@@ -79,7 +79,7 @@ let's play Dota 2 togather 😉
   <img align="left" alt=" Reddit" width="150" hight="100" src="https://github.com/darya0daria/darya0daria/blob/main/assets/instagram.png" />
 </a>
 <a href="https://steamcommunity.com/profiles/76561199436391106/">
-  <img align="left" alt="Steam" width="150" hight="100" src="https://github.com/darya0daria/darya0daria/blob/main/assets/steam.png" />
+  <img align="left" alt="Steam" width="130" hight="100" src="https://github.com/darya0daria/darya0daria/blob/main/assets/steam.png" />
 </a>
  </p>
  
