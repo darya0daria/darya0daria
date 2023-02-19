@@ -20,7 +20,7 @@
 - 🔸 Web design  
 
 ### - Hobbies : 
-- 🔸 Gaming Addict
+- ✨ Gaming Addict
 - 🔸 Watching Kdramas
 - 🔸 Learning foreign languages
 - 🔸 Photography
