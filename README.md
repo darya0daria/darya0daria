@@ -1,7 +1,7 @@
 # Konichiwa 👋
 
 <div align="center">
-<img hight="80" width="480" alt="GIF" align="center" src="https://github.com/darya0daria/darya0daria/blob/main/assets/hi.gif">
+<img hight="100" width="500" alt="GIF" align="center" src="https://github.com/darya0daria/darya0daria/blob/main/assets/hi.gif">
 </div>
 
 </br>
