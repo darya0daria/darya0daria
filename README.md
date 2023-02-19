@@ -15,15 +15,15 @@
 <img hight="300" width="350" alt="GIF" align="right" src="https://github.com/darya0daria/darya0daria/blob/main/assets/about%20me.gif">
 
 ### - Learning :
-- ✨ Machine Learning
-- ✨ Data Scienece 
-- ✨ Web design  
+- 🔸 Machine Learning
+- 🔸 Data Scienece 
+- 🔸 Web design  
 
 ### - Hobbies : 
-- ✨ Gaming Addict
-- ✨ Watching Kdramas
-- ✨ Learning foreign languages
-- ✨ Photography
+- 🔸 Gaming Addict
+- 🔸 Watching Kdramas
+- 🔸 Learning foreign languages
+- 🔸 Photography
 
 </br>
 </br>
