@@ -36,7 +36,7 @@
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 <img src="https://github.com/darya0daria/darya0daria/blob/main/assets/python.png" alt="python" width="120" hight="50">
 <img src="https://github.com/darya0daria/darya0daria/blob/main/assets/sql.png" alt="java"  width="100" hight="50">
-<img src="https://github.com/darya0daria/darya0daria/blob/main/assets/ps.png" alt="AI" width="90" hight="50">
+<img src="https://github.com/darya0daria/darya0daria/blob/main/assets/ps.png" alt="AI" width="140" hight="50">
 <img src="https://github.com/darya0daria/darya0daria/blob/main/assets/figma.png" alt="bash" width="140" hight="45">
 <img src="https://github.com/darya0daria/darya0daria/blob/main/assets/ai.png" alt="datascience" width="140" hight="2">
 </br>
