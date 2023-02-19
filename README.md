@@ -8,7 +8,7 @@
 </br>
 </br>
 
-# About ME 💬 :
+#A few words about myself 💬 :
 
 ### - I'm 23 years  old 2nd year master's student from Russia.
 
@@ -29,7 +29,7 @@
 </br>
 </br>
 
-# Languages & Tools 👨‍💻 🛠:
+# Languages & Tools 🛠:
 </br>
 
 <p align="center">
