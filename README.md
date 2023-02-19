@@ -1,4 +1,4 @@
-# Konichiwa 👋
+# Hii~ I'm Daria 😼
 
 <div align="center">
 <img hight="200" width="500" alt="GIF" align="center" src="https://github.com/darya0daria/darya0daria/blob/main/assets/hi.gif">
@@ -10,19 +10,20 @@
 
 # About ME 💬 :
 
-### - I'm 19 years  old Machine Learning & Artificial Intelligence Enthusiast from India.
+### - I'm 23 years  old 2nd year master's student from Russia.
 
 <img hight="300" width="350" alt="GIF" align="right" src="https://github.com/darya0daria/darya0daria/blob/main/assets/about%20me.gif">
 
 ### - Learning :
-- ✨ Data Structures & Algorithms
-- ✨ Generative Adversarial Networks
+- ✨ Machine Learning
+- ✨ Data Scienece 
+- ✨ Web design  
 
 ### - Hobbies : 
 - ✨ Gaming Addict
-- ✨ Watching Anime
-- ✨ Reading Light Novels
-- ✨ Badminton (Neighbourhood Professional XD)
+- ✨ Watching Kdramas
+- ✨ Learning foreign languages
+- ✨ Photography
 
 </br>
 </br>
@@ -60,7 +61,9 @@
 <img hight="320" width="450" align="right" alt="GIF" src="https://github.com/darya0daria/darya0daria/blob/main/assets/contact%20me.gif">
 
 
-If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
+Text me about everything you want, but if you have no idea what to text I have one:
+Let's play Dota 2 togather 😉
+
 
 <a href="mailto:daria.akimova@mail.ru">
  <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/darya0daria/darya0daria/blob/main/assets/email_me.png" />
