@@ -62,11 +62,12 @@
 
 
 Text me about everything you want, but if you have no idea what to text I have one:
-Let's play Dota 2 togather 😉
+
+let's play Dota 2 togather 😉
 
 
 <a href="mailto:daria.akimova@mail.ru">
- <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/darya0daria/darya0daria/blob/main/assets/email_me.png" />
+ <img align="left" alt="Gmail" width="150" hight="100" src="https://github.com/darya0daria/darya0daria/blob/main/assets/email_me.png" />
 </a>
 <a href="https://t.me/darya0daria">
   <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/darya0daria/darya0daria/blob/main/assets/telegram.png" />
@@ -75,10 +76,10 @@ Let's play Dota 2 togather 😉
 </br>
 </a>
 <a href="https://instagram.com/darya0daria?igshid=YmMyMTA2M2Y=">
-  <img align="left" alt=" Reddit" width="130" hight="100" src="https://github.com/darya0daria/darya0daria/blob/main/assets/instagram.png" />
+  <img align="left" alt=" Reddit" width="150" hight="100" src="https://github.com/darya0daria/darya0daria/blob/main/assets/instagram.png" />
 </a>
 <a href="https://steamcommunity.com/profiles/76561199436391106/">
-  <img align="left" alt="Steam" width="130" hight="100" src="https://github.com/darya0daria/darya0daria/blob/main/assets/steam.png" />
+  <img align="left" alt="Steam" width="150" hight="100" src="https://github.com/darya0daria/darya0daria/blob/main/assets/steam.png" />
 </a>
  </p>
  
