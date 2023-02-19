@@ -16,7 +16,7 @@
 
 ### - Learning :
 - 🔸 Machine Learning
-- 🔸 Data Scienece 
+- 🔸 Data Science 
 - 🔸 Web design  
 
 ### - Hobbies : 
