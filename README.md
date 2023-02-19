@@ -51,6 +51,48 @@
 </br>
 </br>
 
+# Contact Me :
+
+<p>
+ </br>
+
+
+<img hight="320" width="450" align="right" alt="GIF" src="https://github.com/darya0daria/darya0daria/blob/main/assets/contact%20me.gif">
+
+
+If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
+
+<a href="mailto:daria.akimova@mail.ru">
+ <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/darya0daria/darya0daria/blob/main/assets/email_me.png" />
+</a>
+<a href="https://t.me/darya0daria">
+  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/darya0daria/darya0daria/blob/main/assets/telegram.png" />
+</br>
+</br>
+</br>
+</a>
+<a href="https://instagram.com/darya0daria?igshid=YmMyMTA2M2Y=">
+  <img align="left" alt=" Reddit" width="130" hight="100" src="https://github.com/darya0daria/darya0daria/blob/main/assets/instagram.png" />
+</a>
+<a href="https://steamcommunity.com/profiles/76561199436391106/">
+  <img align="left" alt="Steam" width="130" hight="100" src="https://github.com/darya0daria/darya0daria/blob/main/assets/steam.png" />
+</a>
+ </p>
+ 
+
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+
+
+
+
+
+
 
 <!--
 **darya0daria/darya0daria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
