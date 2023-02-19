@@ -63,7 +63,7 @@
 
 Text me about everything you want, but if you have no idea what to text I have one:
 
-Let's play Dota 2 togather 😉
+Let's play Dota 2 togather 👍
 
 
 <a href="mailto:daria.akimova@mail.ru">
