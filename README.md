@@ -12,7 +12,7 @@
 
 ### - I'm 19 years  old Machine Learning & Artificial Intelligence Enthusiast from India.
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/darya0daria/darya0daria/blob/main/assets/about%20me.gif">
+<img hight="300" width="400" alt="GIF" align="right" src="https://github.com/darya0daria/darya0daria/blob/main/assets/about%20me.gif">
 
 ### - Learning :
 - ✨ Data Structures & Algorithms
