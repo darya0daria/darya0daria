@@ -28,6 +28,29 @@
 </br>
 </br>
 
+# Languages & Tools 👨‍💻 🛠:
+</br>
+
+<p align="center">
+
+<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
+<img src="https://github.com/darya0daria/darya0daria/blob/main/assets/python.png" alt="python" width="120" hight="50">
+<img src="https://github.com/darya0daria/darya0daria/blob/main/assets/sql.png" alt="java"  width="100" hight="50">
+<img src="https://github.com/darya0daria/darya0daria/blob/main/assets/ps.png" alt="AI" width="90" hight="50">
+<img src="https://github.com/darya0daria/darya0daria/blob/main/assets/figma.png" alt="bash" width="100" hight="50">
+<img src="https://github.com/darya0daria/darya0daria/blob/main/assets/ai.png" alt="datascience" width="180" hight="50">
+</br>
+
+
+</br>
+
+
+
+</p>
+</br>
+</br>
+</br>
+
 
 <!--
 **darya0daria/darya0daria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
