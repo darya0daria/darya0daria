@@ -1,4 +1,3 @@
-# Hii~ I'm Daria 😁
 
 <div align="center">
 <img hight="200" width="500" alt="GIF" align="center" src="https://github.com/darya0daria/darya0daria/blob/main/assets/hi.gif">
